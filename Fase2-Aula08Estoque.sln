@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fase2-Aula08Estoque", "Fase2-Aula08Estoque\Fase2-Aula08Estoque.csproj", "{58C981B8-0F49-492F-A66E-21950AE998C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C981B8-0F49-492F-A66E-21950AE998C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C981B8-0F49-492F-A66E-21950AE998C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C981B8-0F49-492F-A66E-21950AE998C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C981B8-0F49-492F-A66E-21950AE998C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4004C6-94FC-42DD-A606-79A15C5C000F}
+	EndGlobalSection
+EndGlobal
